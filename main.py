@@ -1,5 +1,5 @@
 import random
-from tkinter import *
+
 
 baralho = [('Ás', 'copas'), ('2', 'copas'), ('3', 'copas'), ('4', 'copas'), ('5', 'copas'), ('6', 'copas'), ('7', 'copas'), ('8', 'copas'), ('9', 'copas'), ('10', 'copas'), ('Valete', 'copas'), ('Rainha', 'copas'), ('Rei', 'copas'), ('Ás', 'espadas'), ('2', 'espadas'), ('3', 'espadas'), ('4', 'espadas'), ('5', 'espadas'), ('6', 'espadas'), ('7', 'espadas'), ('8', 'espadas'), ('9', 'espadas'), ('10', 'espadas'), ('Valete', 'espadas'), ('Rainha', 'espadas'), ('Rei', 'espadas'), ('Ás', 'ouros'), ('2', 'ouros'), ('3', 'ouros'), ('4', 'ouros'), ('5', 'ouros'), ('6', 'ouros'), ('7', 'ouros'), ('8', 'ouros'), ('9', 'ouros'), ('10', 'ouros'), ('Valete', 'ouros'), ('Rainha', 'ouros'), ('Rei', 'ouros'), ('Ás', 'paus'), ('2', 'paus'), ('3', 'paus'), ('4', 'paus'), ('5', 'paus'), ('6', 'paus'), ('7', 'paus'), ('8', 'paus'), ('9', 'paus'), ('10', 'paus'), ('Valete', 'paus'), ('Rainha', 'paus'), ('Rei', 'paus')]
 valores = {'Ás': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, 'Valete': 10, 'Rainha': 10, 'Rei': 10}
